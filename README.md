@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4K028&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4K028&layout=compact)](https://github.com/R4K028/github-readme-stats)
+
 <!--
 **R4K028/R4K028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
